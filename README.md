@@ -19,7 +19,7 @@ Scalable Design – Optimized entity structure and indexing for handling hundred
 
 Tech Stack:
 
-Java 17
+Java 21
 
 Spring Boot (Web, Data JPA, Validation)
 
